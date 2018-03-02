@@ -175,7 +175,7 @@ button:focus {
 	background-color: transparent;
 	border-radius: 4px;
 	border: 2px solid #000000;
-	color: #000;
+	color: #000000;
 	display: inline-block;
 	font-size: 14px;
 	font-weight: 700;
@@ -187,7 +187,7 @@ button:focus {
 
 .mu-primary-btn:hover,
 .mu-primary-btn:focus {
-	background-color: #000;
+	background-color: #000000;
 }
 
 .mu-send-msg-btn {
@@ -201,13 +201,13 @@ button:focus {
 	-webkit-transition: all 0.5s;
 	transition: all 0.5s;
 	width: 130px;
-	color: #000;
+	color: #000000;
 	border-radius: 10px;
 }
 
 .mu-send-msg-btn:hover,
 .mu-send-msg-btn:focus {
-	background-color: #000;
+	background-color: #000000;
 }
 
 
@@ -245,7 +245,7 @@ button:focus {
 
 .mu-logo:hover,
 .mu-logo:focus {
-	color: #fff;
+	color: #000000;
 }
 
 .mu-menu-btn {
@@ -483,7 +483,7 @@ button:focus {
 
 
 #mu-feature {
-	background-color: #fff;
+	background-color: #000000;
 	display: inline;
 	float: left;
 	width: 100%;
@@ -505,7 +505,7 @@ button:focus {
 }
 
 .mu-title {
-	color: #1c1b1b;
+	color: #000000;
 	margin-bottom: 15px;
 	padding: 0;
 	z-index: 10;
@@ -540,7 +540,7 @@ button:focus {
 }
 
 .mu-feature-content {
-	background-color: #fff;
+	background-color: #000000;
 	display: inline;
 	float: left;
 	margin-top: 30px;
@@ -565,12 +565,12 @@ button:focus {
 }
 
 .mu-feature-btn {
-	color: #fff;
+	color: #000000;
 	font-size: 18px;
 }
 
 .mu-feature-btn:hover {
-	color: #fff;
+	color: #000000;
 }
 
 .mu-feature-content-right .media-heading {
