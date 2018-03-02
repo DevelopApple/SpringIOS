@@ -217,12 +217,9 @@ button:focus {
 /*--------------------*/
 
 #mu-header {
-	background-image: url("assets/images/header-bg.jpg");
 	display: inline;
 	float: left;
 	width: 100%;
-	background-position: center center;
-	background-attachment: fixed;
 }
 
 .mu-header-overlay {
@@ -267,7 +264,7 @@ button:focus {
 
 .mu-menu-btn:hover,
 .mu-menu-btn:focus {
-	border: 2px solid #fff;
+	border: 2px solid #ffffff;
 }
 
 
