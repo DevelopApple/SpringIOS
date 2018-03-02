@@ -42,8 +42,8 @@ Author URI : http://www.markups.io/
 } 
 
 .mu-send-msg-btn {
-	border: 1px solid #ff5a60;
-	background-color: #ff5a60;
+	border: 1px solid #ffffff;
+	background-color: #ffffff;
 }
 
 .mu-header-overlay,
@@ -53,19 +53,19 @@ Author URI : http://www.markups.io/
 .mu-title-dot::after,
 .mu-feature-btn,
 .mu-video-overlay {
-	background-color: #ff5a60;
+	background-color: #ffffff;
 }
 .mu-feature-content-right .media:hover {
-	border-bottom: 1px solid #ff5a60;
+	border-bottom: 1px solid #ffffff;
 }
 
 .mu-apps-screenshot-slider .slick-next,
 .mu-apps-screenshot-slider .slick-prev {
-	border: 2px solid #ff5a60;
-	color: #ff5a60;
+	border: 2px solid #ffffff;
+	color: #ffffff;
 }
 
 .mu-faq-content .panel-default > .panel-heading + .panel-collapse > .panel-body {
-	border-top-color: #ff5a60;
+	border-top-color: #ffffff;
 
 }
