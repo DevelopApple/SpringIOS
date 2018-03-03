@@ -105,7 +105,7 @@ img {
 }
 
 code {
-	background-color: ##ee6e73;
+	background-color: #ee6e73;
 	border-radius: 2px;
 	color: #fff;
 	padding: 2px 4px;
@@ -124,7 +124,7 @@ pre code {
 }
 
 del{
-	text-decoration-color: ##ff5a60;
+	text-decoration-color: #ee6e73;
 }
 
 kbd {
@@ -187,7 +187,7 @@ button:focus {
 
 .mu-primary-btn:hover,
 .mu-primary-btn:focus {
-	background-color: #000000;
+	background-color: #fff;
 }
 
 .mu-send-msg-btn {
@@ -201,13 +201,13 @@ button:focus {
 	-webkit-transition: all 0.5s;
 	transition: all 0.5s;
 	width: 130px;
-	color: #000000;
+	color: #fff;
 	border-radius: 10px;
 }
 
 .mu-send-msg-btn:hover,
 .mu-send-msg-btn:focus {
-	background-color: #000000;
+	background-color: #fff;
 }
 
 
@@ -217,9 +217,12 @@ button:focus {
 /*--------------------*/
 
 #mu-header {
+	background-image: url("assets/images/header-bg.jpg");
 	display: inline;
 	float: left;
 	width: 100%;
+	background-position: center center;
+	background-attachment: fixed;
 }
 
 .mu-header-overlay {
@@ -236,7 +239,7 @@ button:focus {
 }
 
 .mu-logo {
-	color: #000000;
+	color: #fff;
 	font-size: 45px;
 	display: inline-block;
 	font-weight: 700;
@@ -245,16 +248,16 @@ button:focus {
 
 .mu-logo:hover,
 .mu-logo:focus {
-	color: #000000;
+	color: #fff;
 }
 
 .mu-menu-btn {
 	position: fixed;
 	right: 15%;
 	top: 50px;
-	color: #000000;
+	color: #fff;
 	font-size: 25px;
-	border: 2px solid #000000;
+	border: 2px solid #fff;
 	padding: 5px 14px;
 	z-index: 999;
 	-webkit-transition: all 0.5s;
@@ -264,7 +267,7 @@ button:focus {
 
 .mu-menu-btn:hover,
 .mu-menu-btn:focus {
-	border: 2px solid #000000;
+	border: 2px solid #fff;
 }
 
 
@@ -304,7 +307,7 @@ button:focus {
 }
 
 .mu-header-featured-content p{
-	color: #000000;
+	color: #fff;
 }
 
 .mu-app-download-area {
@@ -315,7 +318,7 @@ button:focus {
 }
 
 .mu-app-download-area h4 {
-	color: #000000;
+	color: #fff;
 	font-size: 18px;
 	font-weight: 300;
 	margin-bottom: 20px;
@@ -483,7 +486,7 @@ button:focus {
 
 
 #mu-feature {
-	background-color: #000000;
+	background-color: #fff;
 	display: inline;
 	float: left;
 	width: 100%;
@@ -505,7 +508,7 @@ button:focus {
 }
 
 .mu-title {
-	color: #000000;
+	color: #1c1b1b;
 	margin-bottom: 15px;
 	padding: 0;
 	z-index: 10;
@@ -540,7 +543,7 @@ button:focus {
 }
 
 .mu-feature-content {
-	background-color: #000000;
+	background-color: #fff;
 	display: inline;
 	float: left;
 	margin-top: 30px;
@@ -565,12 +568,12 @@ button:focus {
 }
 
 .mu-feature-btn {
-	color: #000000;
+	color: #fff;
 	font-size: 18px;
 }
 
 .mu-feature-btn:hover {
-	color: #000000;
+	color: #fff;
 }
 
 .mu-feature-content-right .media-heading {
