@@ -222,14 +222,14 @@ button:focus {
 	float: left;
 	width: 100%;
 	background-position: center center;
-		background-attachment: fixed;
+	background-attachment: fixed;
 
 }
 
 .mu-header-overlay {
 	display: inline;
 	float: left;
-	opacity: 0.0;
+	opacity: 0.8;
 	width: 100%;
 }
 
