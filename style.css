@@ -436,7 +436,7 @@ button:focus {
 /* Menu overlay */
 
 .mu-menu-full-overlay {
-	background-color: rgba(0, 0, 0, 0.0);
+	background-color: rgba(0, 0, 0, 0.0;
 	color: #fff;
 	height: 100%;
 	left: 0;
@@ -444,7 +444,10 @@ button:focus {
 	right: 0;
 	text-align: center;
 	top: 0;
-
+	visibility: hidden;
+    -webkit-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
 	width: 100%;
 	z-index: 99999;
 }
