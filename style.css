@@ -104,7 +104,12 @@ img {
 	max-width: 100%;
 }
 
-
+code {
+	background-color: #ee6e73;
+	border-radius: 2px;
+	color: #fff;
+	padding: 2px 4px;
+}
 
 pre {
 	background-color: #f8f8f8;
@@ -161,12 +166,6 @@ button {
 button:focus {
 	outline: none;
 	border: none;
-}
-code {
-	background-color: #f7f4f4;
-	border-radius: 2px;
-	color: #fff;
-	padding: 2px 4px;
 }
 
 /* ========= BUTTON =========*/
