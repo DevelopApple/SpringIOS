@@ -174,8 +174,8 @@ button:focus {
 .mu-primary-btn {
 	background-color: transparent;
 	border-radius: 4px;
-	border: 2px solid #000000;
-	color: #000000;
+	border: 2px solid #ffffff;
+	color: #fff;
 	display: inline-block;
 	font-size: 14px;
 	font-weight: 700;
@@ -223,7 +223,6 @@ button:focus {
 	width: 100%;
 	background-position: center center;
 	background-attachment: fixed;
-
 }
 
 .mu-header-overlay {
@@ -328,9 +327,9 @@ button:focus {
 .mu-apple-btn,
 .mu-google-btn,
 .mu-windows-btn {
-	border: 2px solid #000000;
+	border: 2px solid #fff;
     border-radius: 50px;
-    color: #000000;
+    color: #fff;
     display: inline-block;
     margin: 0 10px;
     padding: 11px 22px;
@@ -346,7 +345,7 @@ button:focus {
 .mu-apple-btn:focus,
 .mu-google-btn:focus,
 .mu-windows-btn:focus {
-	background-color: #000000;
+	background-color: #ffffff;
 }
 
 .mu-apple-btn i,
@@ -434,6 +433,7 @@ button:focus {
 } 
 
 /* Menu overlay */
+
 .mu-menu-full-overlay {
 	background-color: rgba(0, 0, 0, 0.94);
 	color: #fff;
